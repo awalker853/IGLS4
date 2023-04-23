@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/ayden/Documents/Unreal Projects/IGLS4/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset",
+				"C:/Users/ayden/Documents/Unreal Projects/IGLS4/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/G1/OOSWKLT4T3VV8V0KG33QPF.uasset",
+				"C:/Users/ayden/Documents/Unreal Projects/IGLS4/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/KD/88AVS5MH15WHDT4Z2D8BBE.uasset",
+				"C:/Users/ayden/Documents/Unreal Projects/IGLS4/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/39/TWHDCKXNYC1SK2VHUU4YUY.uasset",
+				"C:/Users/ayden/Documents/Unreal Projects/IGLS4/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"C:/Users/ayden/Documents/Unreal Projects/IGLS4/Content/ThirdPerson/BPGuide/BP_HUD_Timer.uasset",
+				"C:/Users/ayden/Documents/Unreal Projects/IGLS4/Content/ThirdPerson/BPGuide/BP_GameMode_HUD.uasset"
+			]
+		}
+	]
+}
